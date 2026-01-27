@@ -7,3 +7,7 @@ My academic and technical interests focus on Machine Learning, Deep Learning, Ro
 This GitHub profile contains a curated selection of academic projects developed during my degree, covering areas such as machine learning, optimization, robotics, statistical modeling and intelligent systems.
 
 I am currently seeking internship opportunities where I can apply my skills and continue learning in real-world AI projects.
+
+
+📍 Barcelona, Spain  
+🔗 LinkedIn: https://www.linkedin.com/in/marc-delgado-gallardo-181919395/
