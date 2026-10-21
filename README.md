@@ -1,6 +1,6 @@
 # Hi, I'm Marc Delgado 👋
 
-I am a third-year Artificial Intelligence student at the Universitat Politècnica de Catalunya (UPC).
+I am a fourth-year Artificial Intelligence student at the Universitat Politècnica de Catalunya (UPC).
 
 My academic and technical interests focus on Machine Learning, Deep Learning, Robotics and applied Artificial Intelligence, with experience in Python, MATLAB and data-driven projects.
 
